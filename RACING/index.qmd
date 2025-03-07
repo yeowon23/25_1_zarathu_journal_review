@@ -160,7 +160,7 @@ editor: visual
 
 ### Figure 1
 
-![](images/clipboard-3270014850.png)
+<img src="RACING Figure 1.png"/>
 
 </div>
 
@@ -204,7 +204,7 @@ editor: visual
 
 ### Table 1
 
-![](images/clipboard-2289941111.png)
+<img src="RACING Table 1.png"/>
 
 </div>
 
