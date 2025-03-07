@@ -1,0 +1,282 @@
+---
+title: "Moderate-intensity Statin with Ezetimbe vs. High-intensity Statin in ASCVD"
+subtitle: "Long-term lipid lowering"
+author: "Yeowon Kim"
+format: 
+  revealjs:
+    slide-number: true
+    transition: slide
+    theme: simple
+    footer: RACING
+    reference-location: document
+    scrollable: true
+editor: visual
+---
+
+## Background (1)
+
+-   **Atherosclerotic cardiovascular disease(ASCVD)** : 죽성경화성 심혈관질환, 심장과 뇌의 혈관에 콜레스테롤, 지방 등이 쌓여 발생하는 심혈관 질환으로, 심장마비, 뇌졸중을 초래함. 알려진 주요 원인으로 고지혈증이 있는데, 이는 LDL 콜레스테롤이 높을 때 위험이 증가함.<br><br>
+-   **LDL (low-density lipoprotein) Cholesterol :\
+    **저밀도 지단백질, 간으로부터 조직 말단과 혈관으로 운반되는 콜레스테롤.<br><br>
+
+## Background (2)
+
+| Statin (스타틴)                                  | Ezetimibe (에제티미브)                               |
+|--------------------------------------------------|------------------------------------------------------|
+| **간**에서 콜레스테롤 합성 억제                  | **장**에서 콜레스테롤 합성 억제                      |
+| 강력한 LDL 콜레스테롤 감소 효과 -\> 단독 or 병용 | 약한 LDL 콜레스테롤 감소 효과 -\> 주로 스타틴과 병용 |
+| 부작용 多 (근육통, 간 수치 상승, 당뇨 위험)      | 부작용 少 (가벼운 간 수치 상승)                      |
+
+## Introduction (1)
+
+-   **ASCVD** 환자에게 LDL 콜레스테롤 농도 감소를 위해 **고강도 스타틴 사용**이 권장되고 있다. <br><br>
+-   그러나 여러 부작용 및 불내성 가능성에 의해 스타틴 용량을 증가시키는 대신, **에제티미브 병용이 더 안전하다는 주장**이 있었다. <br><br>
+
+## Introduction (2)
+
+-   실제로 저강도 스타틴과 에제티미브 병용 치료가 유의미한 효과를 보인다고 보고되었으나, 두 방법에 대한 **장기적인 임상 결과를 비교한 RCT는 없었다.** <br><br>
+-   본 RACING trial은 **3년간의 스타틴 단독 치료와 스타틴+에제티미브 병용 치료의 효과 및 안전성을 비교**함으로써 장기적 관점에서 병용 치료 효과를 입증하고자 하였다. <br><br>
+
+# Method
+
+## Study design
+
+-   한국의 26개 임상 센터에서 진행<br><br>
+-   연구자 주도, 다기관, 랜덤, 오픈라벨 임상 시험 <br><br>
+-   윤리위원회 승인 및 안전성 모니터링 하에 진행되었음<br><br>
+
+## Patients
+
+-   **대상** : 고강도 스타틴 치료를 통해 LDL 콜레스테롤 농도를 70mg/dL 이하로 낮추어야 하는 19\~80세 ASCVD 환자들
+
+    -   심근경색
+
+    -   급성 관상동맥 증후군
+
+    -   재관류 치료 병력
+
+    -   허혈성 뇌졸중
+
+    -   말초동맥질환 <br><br>
+
+-   **제외**: 간 질환, 이식 환자, 약제 과민성, 기대여명 3년 이내 등
+
+## Randomisation
+
+-   병용 치료 그룹과 단독 치료 그룹에 1:1 랜덤 배정 <br><br>
+-   기준 LDL 농도(100mg/dL) & 당뇨병 유무에 따라 층화<br><br>
+
+## Procedure
+
+| 스타틴 + 에제티미브 병용 치료              | 고강도 스타틴 단독 치료   |
+|--------------------------------------------|---------------------------|
+| Rosuvastatin 10mg + Exetimibe 10mg 1일 1회 | Rosuvastatin 20mg 1일 1회 |
+
+-   연구 초기의 용량을 최대한 유지하도록 권고.<br><br>
+
+-   환자 건강 상태(혈압, 혈당 등) 및 기타 상황에 따라 두 그룹 모두 용량 증감 허용됨.<br><br>
+
+-   지질 프로파일(총 콜레스테롤, LDL 등) 검사는 1년, 2년, 3년에 실시<br><br>
+
+## Outcomes
+
+::: panel-tabset
+## Primary endpoint
+
+-   **3년 이내 심혈관 사망**
+
+-   **주요 심혈관 사건**
+
+    -   관상동맥
+
+    -   말초 혈관 재관류술
+
+    -   심혈관 사건으로 인한 입원
+
+-   **비치명적 뇌졸중 발생**
+
+## Secondary endpoints
+
+-   **Efficacy**
+
+    -   LDL 농도가 70mg/dL 미만으로 감소한 환자 비율
+
+    -   사망, 주요 심혈관 사건 및 비치명적 뇌졸중의 복합 평가 변수
+
+    -   LDL 콜레스테롤 감소량
+
+    -   primary endpoints의 개별 항목 분석
+
+-   **Safety**
+
+    -   약물 intolerance로 인한 연구 약물 중단 or 용량 감소 발생
+
+    -   임상적 이상반응 발생
+
+        -   신규 당뇨병
+
+        -   근육 관련 이상반응
+
+        -   간 관련 이상반응
+
+        -   담낭 관련 이상반응
+
+        -   암 진단
+:::
+
+## Sample Size
+
+### Primary (비열등성, 단측 검정)
+
+-   expected 3-year event rate
+
+    -   병용치료 : 13%
+
+    -   단독치료 : 14%<br><br>
+
+-   non-inferiority margin : 2.0%
+
+    -   두 그룹의 primary endpoint 발생률 차이의 단측 95% CI 상한이 2.0% 미만일 때 비열등하다고 판단
+
+### Secondary (우월성, 양측 검정)
+
+-   LDL 콜레스테록 목표 (70mg/dL 이하) 도달율
+
+    -   병용치료 : 70%
+
+    -   단독치료 : 50%
+
+## Sample Size
+
+<div>
+
+### Primary
+
+단측검정 유의수준(alpha) 5.0% + 검정력(power) 80% + 탈락율 15%를 고려하여 최종적으로 **3780명, 각 그룹 1890명**
+
+### Secondary
+
+양측검정 유의수준(alpha) 5.0% + 검정력(power) 80% + 탈락율 15%를 고려하여 **220명 -\> Primary에서 충족**
+
+### Figure 1
+
+![](images/clipboard-3270014850.png)
+
+</div>
+
+## Statistical Analysis (1)
+
+**Primary Objective** : 3년 내 병용치료의 primary endpoint 발생률이 단독치료와 비교하여 **비열등함(non-inferiority)을 입증**하는 것<br><br>
+
+**Secondary Objective** : Efficacy와 Safety 측면에서 병용치료가 단독치료와 비교하여 **우월함(superiority)을 입증**하는 것<br><br>
+
+## Statistical Analysis (2)
+
+-   범주형 변수 -\> 빈도(%)<br><br>
+
+-   연속형 변수
+
+    -   정규분포 -\> 평균, 표준편차
+
+    -   비정규분포 -\> 중앙값, 사분위범위<br><br>
+
+-   생존 분석
+
+    -   Kaplan-Meier 곡선 -\> 첫 번째 사건 발생 시점까지의 시간 분포
+
+    -   Log-rank 검정 -\> 두 그룹 간 사건 발생률 비교
+
+    -   Cox 회귀 분석 -\> hazard ratio(HR), 95% 신뢰구간(CI) 추정<br><br>
+
+## Statistical analysis (3)
+
+-   Intention-to-Treat(ITT) 분석 : 무작위 배정된 모든 환자 포함<br><br>
+-   Per-Protocol(PP) 분석 : 배정된 치료를 받지 않은 환자는 제외하되, 부작용으로 인해 중단/감량한 경우는 포함<br><br>
+-   본 연구는 결측값을 제거하고 진행됨.<br><br>
+
+# Results
+
+## Baseline characteristic
+
+2017.02.14 \~ 2018.12.18 동안 3,780명의 ASCVD 환자를 두 그룹에 무작위 배정 -\> **두 그룹 간 기본 특성은 통계적으로 유의미하게 다르지 않다.**
+
+<div>
+
+### Table 1
+
+![](images/clipboard-2289941111.png)
+
+</div>
+
+## Primary Endpoint
+
+-   **병용 (9.1%) / 단독 (9.9%)**<br><br>
+
+-   absolute difference : -0.78% (90%CI는 -2.39\~0.83)
+
+    -   **두 그룹 간 통계적 차이가 없으므로 비열등성 기준 충족**
+
+::: panel-tabset
+### Table 2
+
+<img src="RACING Table 2.png"/>
+
+### Figure 2
+
+<img src="RACING Figure 2.jpg"/>
+:::
+
+## Secondary Endpoint (Efficacy)
+
+-   **병용 (73% -\> 75% -\> 72%) / 단독 (55% -\> 60% -\> 58%)**<br><br>
+
+-   모든 시점에서 **병용 방법이 유의미하게 효과적**. (p \< 0.0001)
+
+::: panel-tabset
+### Table 3
+
+<img src="RACING Table 3.png"/>
+:::
+
+## Secondary Endpoint (Safety)
+
+-   **병용 (4.8%) / 단독 (8.2%)**<br><br>
+-   병용 방법이 유의하게 낮으므로 내약성이 더 우수함.(p \< 0.0001)
+
+## Subgroup analysis
+
+-   Subgroup 분석에서도 결과 경향성 유지됨<br><br>
+-   Per protocol 분석도 마찬가지
+
+## Safety, Subgroup analysis
+
+::: panel-tabset
+### Table 4
+
+<img src="RACING Table 4.png"/>
+
+### Figure 3
+
+<img src="RACING Figure 3.png"/>
+:::
+
+## Conclusion
+
+-   **Primary** : 3년 동안 심혈관 사망, 주요 심혈관 사건, 비치명적 뇌졸중 발생률에서 병용 방법이 **열등하지 않음**을 입증하였다.<br><br>
+-   **Secondary**
+    -   효과 측면에서 병용 방법은 단독 방법보다 LDL 콜레스테롤을 70 mg/dL 미만으로 달성하는 비율이 더 우월했다.
+    -   안정성 측면에서 약물 부작용으로 인한 중단 및 용량 감소 비율 역시 병용 방법이 단독 방법보다 더 우월함을 보였다.
+
+## Discussion
+
+-   LDL 콜레스테롤 감소가 심혈관 질환 위험 감소와 직접적인 연관이 있다. <br><br>
+-   스타틴 단독으로 용량을 증가시키는 것보다 병용 요법이 효과적이고 부작용 위험이 낮다. <br><br>
+-   이전 연구들은 에제티미브 추가 효과만을 평가했지만, 이번 연구는 중간 강도 스타틴과 에제티미브 병용이 대안이 될 수 있음을 시사한다.
+
+## Limitation
+
+-   open-label 연구로 의사가 스타틴 용법을 안 채로 치료를 시행하여 보고된 증상에 편향이 존재할 가능성이 있다. <br><br>
+
+-   Primary endpoint 누적발생률이 예상보다 낮아 (13\~14% vs 9.1\~9.9%) 연구 결과가 유의미하지 않을 가능성이 있다. <br><br>
+
+-   각 임상 결과 (심혈관 사건, 사망률 등)의 사건 발생 수가 적어 개별 비교에 어려움이 있다.

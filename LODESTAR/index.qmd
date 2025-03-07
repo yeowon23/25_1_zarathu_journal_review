@@ -1,0 +1,281 @@
+---
+title: "Treat-to-Target vs. High-intensity Statin in CAD"
+subtitle: "Long-term lipid lowering"
+author: "Yeowon Kim"
+format: 
+  revealjs:
+    slide-number: true
+    transition: slide
+    theme: simple
+    footer: LODESTAR
+    reference-location: document
+    scrollable: true
+editor: visual
+---
+
+## Background (1)
+
+-   **Coronary artery disease(CAD)** : 관상동맥질환, 심장에 혈액을 공급하는 관상동맥이 막히거나 수축하여 심장으로의 혈액 공급이 어려운 질환군. 대개 죽상동맥경화가 원인임.<br><br>
+-   **Atherosclerotic cardiovascular disease(ASCVD)** : 죽성경화성 심혈관질환, 심장과 뇌혈관에 콜레스테롤, 지방 등이 쌓여 발생하는 심혈관 질환으로, 심장마비, 뇌졸중을 초래함. 알려진 주요 원인으로 고지혈증이 있는데, 이는 LDL 콜레스테롤이 높을 때 위험이 증가함.<br><br>
+
+## Background (2)
+
+| CAD (관상동맥질환)                    | ASCVD (죽성경화성 심혈관질환)                                       |
+|---------------------------------------|---------------------------------------------------------------------|
+| 주로 **심장(관상동맥)**에 국한된 질환 | CAD를 포함해 **뇌졸중, 말초동맥질환**까지 포함하는 더 광범위한 질환 |
+
+## Introduction (1)
+
+-   관상동맥질환 (CAD) 환자의 **초기 치료에 고강도 스타틴으로 LDL-C 수치를 감소**시키는 것이 권장되었다.<br><br>
+-   이는 LDL-C 수준을 지속적으로 추적하며 강도를 조정할 필요가 없기에 편리하다.<br><br>
+-   그러나 약물 반응에서의 **개별적인 변이성**과 고강도 스타틴의 **지속 사용에 따른 부작용**이 우려되었다.<br><br>
+
+## Introduction (2)
+
+-   **중간 강도로 시작하여 특정 LDL-C 목표를 설정하고, 이에 맞게 장기적 관점에서 용량을 조절하는 대안**이 제시되었다. ,<br><br>
+-   하지만 CAD 환자군을 대상으로 한 임상시험에서 두 방법이 직접 비교된 기존 연구가 없었다.<br><br>
+-   따라서 **LODESTAR trial**을 통해 **Treat-to-Target 방법이 High-Intensity 스타틴 방법에 비해 열등하지 않음을 입증**하고자 하였다.<br><br>
+
+# Method
+
+## Study design
+
+-   한국의 12개 센터에서 진행<br><br>
+-   연구자 주도, 다기관, 랜덤, 오픈라벨 임상 시험 <br><br>
+-   윤리위원회 승인 및 안전성 모니터링 하에 진행되었음<br><br>
+
+## Patients
+
+-   **대상** : 임상적으로 CAD라고 진단받은 19세 이상의 환자들
+
+    -   안전형 허혈성 심장 질환
+
+    -   급성 관상동맥 증후군
+
+        -   불안정형 협십증
+
+        -   급성 심근경색 <br><br>
+
+-   **제외**: 스타틴 병용 불가 약제 복용 中, 부작용 고위험군, 기대여명 3년 이하 등
+
+## Randomisation + Procedure
+
+-   Treat-to-Target 그룹과 High-intensity 그룹에 1:1 랜덤 배정 <br><br>
+-   초기 LDL 농도(100mg/dL) & 급성 관상동맥 증후군 & 당뇨병 유무에 따라 층화<br><br>
+-   지질 프로파일(총 콜레스테롤, LDL 등) 검사는 6주, 12개월, 24개월, 36개월에 실시<br><br>
+
+<div>
+
+### High-Intensity
+
+연구 기간(3년) 동안 LDL-C 수치 변화에 관계 없이 고강도 유지<br><br>
+
+### Treat-to-Target
+
+-   **치료 목표 :** 50mg/dL \< LDL-C \< 70mg/dL <br><br>
+    -   스타틴 복용 경험 없으면 중간 강도로 연구 시작
+    -   이미 복용 중이면 치료 목표에 맞추어 조절
+        -   70mg/dL 이상이면 강도 증가
+        -   50mg/dL 이상, 70mg/dL 미만이면 강도 유지
+        -   50mg/dL 미만이면 강도 감소
+
+### Statin Intensity
+
+\*2013년 미국심장학회/미국내과학회 (ACC/AHA) 가이드라인을 따름<br><br>
+
+1:1 랜덤 배정으로 로수바스타틴 or 아토르바스타틴 (1일 1회) 복용<br><br>
+
+| 고강도                                   | 중간 강도                                |
+|------------------------------------------|------------------------------------------|
+| 로수바스타틴 20mg or 아토르바스타틴 40mg | 로수바스타틴 10mg or 아토르바스타틴 20mg |
+
+</div>
+
+## Primary Endpoint
+
+-   **주요 심혈관 및 뇌혈관 사건 (MACCE)**
+    -   모든 원인에 의한 사망
+    -   심근경색
+    -   뇌졸중
+    -   3년 내 발생한 모든 관상동맥 재혈관화
+
+## Secondary Endpoint
+
+-   새로운 당뇨병 발생
+-   심부전으로 인한 입원
+-   심부정맥 혈전증 or 폐 색전증
+-   말초동맥질환에 대한 혈관 내 재혈관화
+-   대동맥 중재 or 수술
+-   말기 신장 질환
+-   내약성 부족으로 인한 연구 약물 중단
+-   백내장 수술
+-   실험실 이상 결과의 복합 지표
+
+## Sample Size
+
+### Primary (비열등성, 단측 검정)
+
+-   expected 3-year event rate
+
+    -   연간 4% (이전 연구 기반)
+
+    -   3년 간 발생률을 두 그룹 모두 12%로 가정
+
+-   non-inferiority margin : 3.0%
+
+    -   두 그룹의 primary endpoint 발생률 차이의 단측 97.5% CI 상한이 3.0% 미만일 때 비열등하다고 판단
+
+## Sample Size
+
+단측검정 유의수준(alpha) 2.5% + 검정력(power) 80% + 추적 관찰 손실율 15%를 고려하여 최종적으로 **4400명, 각 그룹 2200명**
+
+<div>
+
+### Figure 1
+
+![](images/clipboard-941482642.png)
+
+</div>
+
+## Statistical analysis (1)
+
+-   **Primary Objective** : 3년 간 Treat-to-Target 방식의 primary endpoint 발생률이 High-Intensity Statin 치료와 비교하여 **비열등함(non-inferiority)을 입증**하는 것<br><br>
+
+## Statistical Analysis (2)
+
+-   범주형 변수 -\> 빈도(%)<br><br>
+
+-   연속형 변수
+
+    -   정규분포 -\> 평균, 표준편차
+
+    -   비정규분포 -\> 중앙값, 사분위범위<br><br>
+
+-   Primary Endpoint 분석
+
+    -   Kaplan-Meier 곡선, Log-rank 검정, Cox<br><br>
+
+## Statistical analysis (3)
+
+-   Intention-to-Treat(ITT) 분석 : 무작위 배정된 모든 환자 포함<br><br>
+-   Per-Protocol(PP) 분석 : 배정된 치료를 받지 않은 환자는 제외하되, 부작용으로 인해 중단/감량한 경우는 포함<br><br>
+-   본 연구는 결측값을 제거하고 진행됨.<br><br>
+
+# Results
+
+## Baseline characteristic
+
+-   2016.09.09 \~ 2019.11.27 동안 4,400명의 CAD 환자를 두 그룹에 무작위 배정 -\> **두 그룹 간 기본 특성은 통계적으로 유의미하게 다르지 않다.**<br><br>
+    -   74%는 CAD 초기 진단 or 수술 후 1년 이상 경과한 상태
+    -   25%는 고강도 스타틴을, 57%는 중간 강도 스타틴을 복용 中
+
+::: panel-tabset
+### Table 1
+
+<img src="LOADSTAR Table 1.png"/>
+:::
+
+## Outcomes
+
+-   Treat-to-Target : 1, 2, 3년 째 각각 **53%, 55%, 56%**가 고강도 statin 복용<br><br>
+
+    -   17%는 스타틴 강도 상향 조정
+
+    -   9%는 스타틴 강도 하향 조정
+
+    -   73%는 변동 없이 유지
+
+-   High-Intensity : 1, 2, 3년 째 각각 **93%, 91%, 89%**가 고강도 statin 복용<br><br>
+
+-   에제티미브 사용은 Treat-to-Target 그룹에서 더 많이 관찰됨.\
+    (주로 고강도 스타틴과의 병용 요법)<br><br>
+
+::: panel-tabset
+### Figure 2
+
+<img src="LOADSTAR Figure 2.png"/>
+:::
+
+## LDL-C level
+
+-   LDL-C level : 6주차 Treat-to-target 69.6(21.2) \> High-intensity 66.8(21.8)<br><br>
+    -   Treat-to-target 그룹의 수치가 유의미하게 더 높았다.
+    -   6주 이후에는 두 그룹 간 LDL-C level 차이가 없었다.
+-   70mg/dL 이하 달성률<br><br>
+    -   6주, 3개월에서는 Treat-to-Target 그룹의 비율이 유의미하게 더 낮았다.
+    -   3개월 이후에는 두 그룹 간 달성률 차이가 없었다.
+
+<div>
+
+### Figure 3
+
+![](images/clipboard-1621362376.png)
+
+</div>
+
+## Primary Endpoints
+
+-   **Treat-to-Target (8.1%) / High-Intensity (8.7%)**<br><br>
+
+-   absolute difference : -0.6% (단측 97.5% CI 상한 1.1 \< 3.0)
+
+    -   **두 그룹 간 통계적 차이가 없으므로 비열등성 기준 충족 (p \< 0.001)**
+    -   PP 분석에서도 일관된 결과 도출
+
+<div>
+
+### Table 2
+
+![](images/clipboard-3474640095.png)
+
+### Figure 4
+
+![](images/clipboard-2902621622.png)
+
+</div>
+
+## Secondary + Subgroup
+
+### Secondary
+
+-   두 그룹 간 유의미한 차이를 보인 항목은 없었다.<br><br>
+
+-   그러나 사후 분석에서 Treat-to-Target 그룹의 당뇨 발생, 간 효소(AST/ALT) 증가, 말기 신부전 발생률이 유의미하게 낮았다.
+
+    -   Treat-to-Target (6.1%) / High-Intensity (8.2%)
+
+    -   absolute difference : -2.1% (p=0.009)<br><br>
+
+### Subgroup
+
+-   Primary endpoint에 대한 두 방법의 효과가 일관됨<br><br>
+
+## Conclusion
+
+-   **LODESTAR trial의 결과, 3년 동안 CAD 환자의 MACCE 발생 측면에서 Treat-to-Target 방법이 High-Intensity Statin 방법에 비해 열등하지 않음을 입증하였다.** <br><br>
+
+## Discussion
+
+-   병용 치료를 실행하지 않아 LDL-C 목표 (70mg/dL 이하) 달성율이 60% 정도로 낮게 나타났다.<br><br>
+
+    -   연구 목적이 스타틴 단독 치료 효과를 평가하는 것이었기에 병용 치료가 권장되지 않았으며,
+
+    -   연구 시작 시점과 달리 최근 가이드라인에서는 병용 치료가 권장되는 추세이다.
+
+-   Treat-to-Target 그룹의 고강도 스타틴 사용 비율이 보다 낮았지만 (54% vs 92%), primary endpoint 달성율의 차이는 크지 않다.<br><br>
+
+    -   이는 Treat-to-Target 방법의 개별 맞춤 치료 가능성을 시사한다.
+
+-   Treat-to-Target 유의할 점
+
+    -   정확한 LDL-C 목표 설정이 어렵다.
+
+    -   LDL-C 목표 도달율은 해당 그룹에서 더 낮았다.
+
+## Limitation
+
+-   open-label 연구로 의사가 스타틴 용법을 안 채로 치료를 시행하여 보고된 증상에 편향이 존재할 가능성이 있다. <br><br>
+    -   독립적인 위원회가 blinded 상태에서 임상 사건 및 주요 결과를 판정하였음<br><br>
+-   **MACCE 누적발생률이 예상보다 낮아** (12% vs 8.1\~8.7%) 연구 결과가 유의미하지 않을 가능성이 있다. <br><br>
+-   CAD 환자만을 대상으로 진행되었기에 다른 환자군에도 적용될지 더욱 연구가 필요하다.<br><br>
+-   3년이라는 관찰 기간이 장기적인 효과를 반영하기에는 비교적 짧을 가능성이 있다. <br><br>
