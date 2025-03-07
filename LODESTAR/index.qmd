@@ -133,7 +133,7 @@ editor: visual
 
 ### Figure 1
 
-![](images/clipboard-941482642.png)
+<img src="LOADSTAR Figure 1.png"/>
 
 </div>
 
@@ -209,7 +209,7 @@ editor: visual
 
 ### Figure 3
 
-![](images/clipboard-1621362376.png)
+<img src="LOADSTAR Figure 3.png"/>
 
 </div>
 
@@ -226,11 +226,11 @@ editor: visual
 
 ### Table 2
 
-![](images/clipboard-3474640095.png)
+<img src="LOADSTAR Table 2.png"/>
 
 ### Figure 4
 
-![](images/clipboard-2902621622.png)
+<img src="LOADSTAR Figure 4.png"/>
 
 </div>
 
